@@ -1,7 +1,0 @@
-﻿  assignment2.cpp
-c:\users\jggraham\documents\visual studio 2015\projects\assignment2\assignment2\assignment2.cpp(31): warning C4101: 'time': unreferenced local variable
-c:\users\jggraham\documents\visual studio 2015\projects\assignment2\assignment2\assignment2.cpp(69): warning C4101: 'euros': unreferenced local variable
-c:\users\jggraham\documents\visual studio 2015\projects\assignment2\assignment2\assignment2.cpp(82): warning C4101: 'frac': unreferenced local variable
-c:\users\jggraham\documents\visual studio 2015\projects\assignment2\assignment2\assignment2.cpp(83): warning C4101: 'dummy': unreferenced local variable
-  assignment2.vcxproj -> c:\Users\jggraham\Documents\Visual Studio 2015\Projects\assignment2\Debug\assignment2.exe
-  assignment2.vcxproj -> c:\Users\jggraham\Documents\Visual Studio 2015\Projects\assignment2\Debug\assignment2.pdb (Full PDB)
