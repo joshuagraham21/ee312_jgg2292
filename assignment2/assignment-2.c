@@ -1,4 +1,4 @@
-// assignment2.cpp : Defines the entry point for the console application.
+// assignment-2.c : Defines the entry point for the console application.
 //
 #include <stdio.h>
 #include "stdafx.h"
