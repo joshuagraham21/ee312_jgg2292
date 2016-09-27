@@ -2,6 +2,14 @@
 #include <stdlib.h>
 
 /*
+* Student Name: Graham, Joshua
+* UT EID: jgg2292
+* Unique Course Number: 16290
+* Assignment Number: EE312-Assignmnet-2
+*/
+
+
+/*
  * return 1 if the ASCII interpretation of 
  * c is an upper case letter.  
  * return 0 otherwise
